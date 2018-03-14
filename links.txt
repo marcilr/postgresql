@@ -8,6 +8,9 @@ PostgreSQL related links
 
 Links
 =====
+PostgreSQL
+http://www.postgresql.org/
+
 PHP: PostgreSQL - Manual
 php.net/manual/en/book.pgsql.php
 
